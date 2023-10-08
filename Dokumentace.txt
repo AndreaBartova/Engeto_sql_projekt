@@ -1,0 +1,13 @@
+Jako první jsem si v rámci projektu vyvořila primární tabulku z tabulek czechia_payroll, czechia_price a economies. Srovnávání dat probíhá mezi lety 2006-2018. 
+
+1) Ceny mezd nerostou rovnomněrně, V některých oborech rostou rychleji, v některých pomaleji. V zemědělatví byl výrazný nárust mzdy v roce 2017 a to o zhruba 6000kč, následný rok mzda opět klesla o cca 4000kč. Nejvyšší mzdy má sektror K, což je pojíšťovnictví a peněžnictví. Výraznější pokles se opakuje ve více oborech v roce 2013, ale to jen o pár set korun, a v roce 2017 o několik tisíc. Vyjímkou je sektor M, profesní a vědecké a technické činnosti, kde v roce 2017 vzrostla mzda o zhruba 5000kč, a sektor Q, zdravotní a sociální služba, kde mzda vyrostla v roce 2017 zhruba o 4500kč, a již zmíněné zemědělství.
+
+2)První a poslední srovnatelné období pro mzdy a potraviny jsou roky 2006 a 2018. V roce 2006 je možné za průměrnou mzdu(20 754kč) koupit cca 1437l mléka a 1281ks bochníků chleba. V roce 2018 je možné za průměrnou mzdu(32 536kč) koupit 1636l mléka a 1344ks bochníků chleba.
+
+3)Nejmenší percentuální zdražení bylo u hovězího masa zadního, kód 112.101
+
+4)V žádném roce nebyl nárůst průměrných cen a mezd větší než 10%.
+
+5)V Roce 2009 HDP kleslo a ve stejném roce klesla průměrná cena potravin o pár korun, ale na platech se to nijak nepodepsalo. U mezd je stále každoroční nárust, alespoň o pár stovek korun. V letech 2016-2018 HDP vzrostlo výrazněji, a platy vrostly zhruba o 1000kč až 2000kč, na cenách potravin se to projevilo v roce 2017, kdy byl nárůst průměrné ceny o zhruba 6kč.
+
+Druhou tabulku o dodatečných datech ostatních států jsem pojala tak, aby se co nejvíce přiblížila tabulce první. Spojila jsem dvě tabulky a to economies a countries. Za stejné srovnatelné období obsahuje data o názvu státu, GDP, daních a národním pokrmu.
